@@ -6,3 +6,5 @@ Problem type :- Supervised
 Algorithms used :- Naive Bayes.
 Dataset :- Custom
 Libraries used :- wordcloud, pandas, re, Matplotlib, tweepy
+
+For detailed explanation follow :- https://medium.com/@dakshtrehan/why-are-you-responsible-for-george-floyds-murder-delhi-communal-riots-4c1edb7acbc5
