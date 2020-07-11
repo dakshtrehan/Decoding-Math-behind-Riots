@@ -1,6 +1,6 @@
 # Decoding-Math-behind-Riots
 
-Join me at www.dakshtrehan.com | www.linkedin.com/in/dakshtrehan
+Join me at www.dakshtrehan.com || www.linkedin.com/in/dakshtrehan
 
 The aim is to understand psychology behind riots in USA as well as in Delhi and contemplating what's collectively wrong in our society.
 
