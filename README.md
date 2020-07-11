@@ -1,5 +1,7 @@
 # Decoding-Math-behind-Riots
 
+Join me at www.dakshtrehan.com 
+
 The aim is to understand psychology behind riots in USA as well as in Delhi and contemplating what's collectively wrong in our society.
 
 Problem type :- Supervised
